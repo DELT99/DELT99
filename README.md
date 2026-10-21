@@ -2,7 +2,8 @@
 <h3 align="center">$\color{lime}\mathbf{Software\ Engineer}$</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=100000&color=A3E635&center=true&vCenter=true&width=600&lines=AI+Solutions+Engineer+%7C+Full+Stack+App+Developer" alt="AI Solutions Engineer | Full Stack App Developer" />
+  <img src="https://img.shields.io/badge/AI%20Solutions%20Engineer-A3E635?style=for-the-badge&labelColor=0d1117&color=0d1117&label=&logoColor=A3E635" alt="AI Solutions Engineer" height="30" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20App%20Developer-A3E635?style=for-the-badge&labelColor=0d1117&color=0d1117&label=&logoColor=A3E635" alt="Full Stack App Developer" height="30" />
 </p>
 
 <p align="center">
