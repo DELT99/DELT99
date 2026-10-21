@@ -4,16 +4,16 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- AI Solutions Engineer at Fortis Summits
-- Sophomore Computer Science student at NU-FAST
-- Strong C++ foundation, now building with Python and Dart
-- Building GenAI apps with LangChain and Google Gemini
-- Developing REST APIs with FastAPI
-- Building cross-platform mobile apps with Flutter and Dart
-- Focused on RAG pipelines and prompt engineering
-- Building portfolio projects for AI Solutions Engineer roles
-- Using Git and GitHub for version control and collaboration
-
+* AI Solutions Engineer at Fortis Summits
+* Full Stack App Developer at Saas-prods
+* Sophomore Computer Science student at NU-FAST
+* Strong C++ foundation, now building with Python and Dart
+* Building GenAI apps with LangChain and Google Gemini
+* Developing REST APIs with FastAPI
+* Building cross-platform mobile apps with Flutter and Dart
+* Focused on RAG pipelines and prompt engineering
+* Building portfolio projects for AI Solutions Engineer roles
+* Using Git and GitHub for version control and collaboration
 
 ## 🧠 My Focus Areas
 - Generative AI and LLM-powered applications
