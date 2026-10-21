@@ -2,6 +2,10 @@
 <h3 align="center">$\color{lime}\mathbf{Software\ Engineer}$</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=100000&color=A3E635&center=true&vCenter=true&width=600&lines=AI+Solutions+Engineer+%7C+Full+Stack+App+Developer" alt="AI Solutions Engineer | Full Stack App Developer" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1500&color=1C9A7B&center=true&vCenter=true&width=600&lines=the+most+personal+is+the+most+creative." alt="the most personal is the most creative." />
   </a>
