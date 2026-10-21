@@ -7,6 +7,11 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/AI%20Solutions%20Engineer-A3E635?style=for-the-badge&logoColor=black" alt="AI Solutions Engineer" height="30" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20App%20Developer-A3E635?style=for-the-badge&logoColor=black" alt="Full Stack App Developer" height="30" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1500&color=1C9A7B&center=true&vCenter=true&width=600&lines=the+most+personal+is+the+most+creative." alt="the most personal is the most creative." />
   </a>
