@@ -14,7 +14,7 @@
 
 ai solutions engineer and full stack app developer in pakistan. i build genai tools and mobile apps.
 
-currently an ai engineer at fortis summits, building llm and rag pipelines with langchain and gemini. also a full stack app developer at saas-prods, shipping flutter apps on supabase. cs sophomore at nu-fast.
+currently building llm and rag pipelines with langchain and gemini at fortis summits. also a full stack app developer at saas-prods, shipping flutter apps on supabase. cs sophomore at nu-fast.
 
 
 
