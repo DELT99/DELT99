@@ -1,4 +1,4 @@
-<h1 align="center">Muhammad Talha</h1>
+<h2 align="center">muhammad talha</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Solutions%20Engineer-A3E635?style=for-the-badge&logoColor=black" alt="AI Solutions Engineer" height="30" />
   <img src="https://img.shields.io/badge/Full%20Stack%20App%20Developer-A3E635?style=for-the-badge&logoColor=black" alt="Full Stack App Developer" height="30" />
@@ -12,29 +12,10 @@
 
 
 
+ai solutions engineer and full stack app developer in pakistan. i build genai tools and mobile apps.
 
-## 📌 About Me
-* AI Solutions Engineer at Fortis Summits
-* Full Stack App Developer at Saas-prods
-* Sophomore Computer Science student at NU-FAST
-* Strong C++ foundation, now building with Python and Dart
-* Building GenAI apps with LangChain and Google Gemini
-* Developing REST APIs with FastAPI
-* Building cross-platform mobile apps with Flutter and Dart
-* Focused on RAG pipelines and prompt engineering
-* Building portfolio projects for AI Solutions Engineer roles
-* Using Git and GitHub for version control and collaboration
+currently an ai solutions engineer at fortis summits, building llm and rag pipelines with langchain and gemini. also a full stack app developer at saas-prods, shipping flutter apps on supabase. cs sophomore at nu-fast.
 
-## 🧠 My Focus Areas
-- Generative AI and LLM-powered applications
-- Retrieval-Augmented Generation (RAG)
-- Prompt engineering
-- LangChain
-- Backend development with Python and FastAPI
-- REST API design and integration
-- Mobile App Development with Flutter and Dart
-- AI workflow automation
-- C++, data structures, and algorithms
 
 
 ## 🛠️ Languages & Tools
